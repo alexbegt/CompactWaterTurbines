@@ -1,0 +1,6 @@
+itemGroup.CompactWaterTurbines=Compact WaterTurbines
+
+tile.CompactWaterTurbines.lvwaterturbine.name=Matala jänniteinen vesiturbiini
+tile.CompactWaterTurbines.mvwaterturbine.name=Keskijänniteinen vesiturbiini
+tile.CompactWaterTurbines.hvwaterturbine.name=Korkea jänniteinen vesiturbiini
+tile.CompactWaterTurbines.evwaterturbine.name=EV vesiturbiini

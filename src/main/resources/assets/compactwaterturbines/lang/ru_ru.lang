@@ -1,0 +1,6 @@
+itemGroup.CompactWaterTurbines=Compact WaterTurbines
+
+tile.CompactWaterTurbines.lvwaterturbine.name=Низковольтная водяная турбина
+tile.CompactWaterTurbines.mvwaterturbine.name=Средневольтная водяная турбина
+tile.CompactWaterTurbines.hvwaterturbine.name=Высоковольтная водяная турбина
+tile.CompactWaterTurbines.evwaterturbine.name=EV водяная турбина
